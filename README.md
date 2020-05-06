@@ -44,6 +44,7 @@ torch.__version__    1.2.0
 
 transformers.__version__   2.0.0
 
+如果使用pytorch 1.5的话,macvo一项要修改一下。
 
 带有命令运行的py文件的命令都在 该py文件的最上方
 
